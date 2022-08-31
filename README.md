@@ -10,4 +10,5 @@ As for the presentation slide, it is uploaded as [pool.pdf](https://github.com/m
 如今的混合實境趨勢明顯在快速增長中，未來的主流移動設備或許會從現在的手機替換成混合實境的裝置，因此透過這個專題，我們學習到關於混合實境的開發知識，以及延伸探索運動科技領域的其他應用。其中輔助系統的計算除了傳統的演算法之外，也可能需要用到人工智慧，去捕捉到更多的變數。為此，我們需要完成一款 UWP(Universal Windows Platform) 應用的開發，並且將它搭載到 Microsoft 的混合實境裝置 Hololens 2 上，選手在穿戴 Hololens 2 進行撞球運動的時候，前方的感測器會感應到臺面上的情況，並將圖像進行分析傳送到後臺進行演算，最後再將推薦的最佳打擊路線透過 AR 的方式讓選手直觀的看到並且模仿。
 
 # Demo
+https://youtu.be/FG3dJcm13Ao
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/FG3dJcm13Ao/0.jpg)](https://www.youtube.com/watch?v=FG3dJcm13Ao "Billiards Guidance Applied to Hololens 2")
