@@ -2,7 +2,8 @@
 The special topic is **Billiards Guidance Applied To Hololens 2 (Mixed Reality)**.\
 This special topic was a collaboration between me and our teammates from Sep 2021 to May 2022.\
 I am responsible for designing an algorithm with the law of reflection and BFS to provide users guided path, and its detailed implementation are listed in this repository.
-The full version report is uploaded as [應用 Hololens 2 於撞球運動輔助系統.pdf](https://github.com/mattcy0514/special-topics-pool/blob/main/%E6%87%89%E7%94%A8%20Hololens%202%20%E6%96%BC%E6%92%9E%E7%90%83%E9%81%8B%E5%8B%95%E8%BC%94%E5%8A%A9%E7%B3%BB%E7%B5%B1.pdf).
+The full version report is uploaded as [應用 Hololens 2 於撞球運動輔助系統.pdf](https://github.com/mattcy0514/special-topics-pool/blob/main/%E6%87%89%E7%94%A8%20Hololens%202%20%E6%96%BC%E6%92%9E%E7%90%83%E9%81%8B%E5%8B%95%E8%BC%94%E5%8A%A9%E7%B3%BB%E7%B5%B1.pdf).\\
+As for the presentation slide, it is uploaded as [pool.pdf](https://github.com/mattcy0514/special-topics-pool/blob/main/pool.pdf).\\
 
 # Abstract
 運動科技在近幾年逐漸有抬頭的趨勢，如今的運動競技不僅是選手之間的較量，更是考驗科技對於選手的輔佐程度，善用科技進行輔佐訓練、測量選手狀態等，不僅能夠提升訓練的品質，也能通過不同於以往的策略來進行教學，研發新的比賽策略等。因此我們組做的專題題目為「應用 AR 的撞球輔助系統」，就是為了解決新手對於撞球的進攻、防守策略不清楚，以及無法確定打擊位置的問題，這些問題都能借由輔助系 統進行計算，並將計算成果返回到 AR 的顯示畫面，指引選手找到最佳的打擊路徑。\
